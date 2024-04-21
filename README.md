@@ -8,4 +8,3 @@ Passionate Computer science student from Skopje, North Macedonia, currently base
 ![pv](https://pageview.vercel.app/?github_user=ATemova)
 
 !Top Languages Card
-https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&layout=compact
