@@ -6,3 +6,5 @@ Passionate Computer science student from Skopje, North Macedonia, currently base
 - 📫 Reach me out on my e-mail: temanastasa@gmail.com
 
 ![pv](https://pageview.vercel.app/?github_user=ATemova)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&layout=compact
