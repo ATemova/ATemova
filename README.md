@@ -4,7 +4,6 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 
 - 📍 Koper, Slovenia
 - 📫 Reach me out on my e-mail: temanastasa@gmail.com
-- 👩🏻‍💻 Currently working on my Systems III and Programming III project
 
 ![ATemova's Stats](https://github-readme-stats.vercel.app/api?username=ATemova&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
