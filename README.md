@@ -7,6 +7,6 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 
 ![ATemova's Stats](https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
 
-![ATemova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![ATemova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ![pv](https://pageview.vercel.app/?github_user=ATemova)
