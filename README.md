@@ -18,8 +18,8 @@ Passionate second-year Computer Science student 👩🏻‍💻 from Skopje, Nor
 
 ### Skills
 - **Languages**: 🐍 Python, ☕ Java, 💻 C++, 🌐 JavaScript, 🧩 C, 🖥️ C#, 🌎 HTML, 🎨 CSS, 🌀 OCaml, 🏗️ Assembly, 🖧 Bash
-- **Code Editors**: ✍️ Sublime Text, 🖥️ Visual Studio Code, 🧠 IntelliJ IDEA, 📄 LaTeX
-- **Tools**: 🗂️ Git, 🌐 GitHub, 📦 GitLab, 🔧 Cisco
+- **Code Editors**: ✍️ Sublime Text, 🖥️ Visual Studio Code, 🧠 IntelliJ IDEA
+- **Tools**: 🗂️ Git, 🌐 GitHub, 📦 GitLab, 🔧 Cisco, , 📄 LaTeX
 
 ### Achievements
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
