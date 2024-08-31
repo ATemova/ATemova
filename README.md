@@ -23,7 +23,7 @@ Passionate second-year Computer Science student 👩🏻‍💻 from Skopje, Nor
 
 ### Achievements
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
-- **🏅 [Hackathon/Competition](https://github.com/ATemova/FAMNIT-Hackathon-3.0)**: FAMNIT Hackathon 3.0
+- **🏅 [Hackathon/Competition](https://github.com/ATemova/FAMNIT-Hackathon-3.0)**: FAMNIT Hackathon 3.0 at the University of Primorksa 2024
 
 ### Contact
 - **LinkedIn**: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/) 🔗
