@@ -3,6 +3,7 @@
 Passionate second-year Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Koper, Slovenia 🏖️. I am pursuing my bachelor’s degree 🎓 at the [University of Primorska](https://www.famnit.upr.si/en), where I am dedicated to acquiring a robust understanding of computer science principles and technologies. My goal is to harness this knowledge to drive innovation 💡 and solve complex problems 🔍, aiming to make a meaningful and positive impact 🌟 in the tech industry. Through my studies and hands-on experiences, I strive to develop solutions that not only address current challenges but also pave the way for future advancements 🚀.
 
 - 📍 Koper, Slovenia 🏖️
+- 🏘️ Skopje, North Macedonia
 - 💌 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
 
 ![ATemova's Stats](https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
@@ -19,7 +20,7 @@ Passionate second-year Computer Science student 👩🏻‍💻 from Skopje, Nor
 ### Skills
 - **Languages**: 🐍 Python, ☕ Java, 💻 C++, 🌐 JavaScript, 🧩 C, 🖥️ C#, 🌎 HTML, 🎨 CSS, 🌀 OCaml, 🏗️ Assembly, 🖧 Bash
 - **Code Editors**: ✍️ Sublime Text, 🖥️ Visual Studio Code, 🧠 IntelliJ IDEA
-- **Tools**: 🗂️ Git, 🌐 GitHub, 📦 GitLab, 🔧 Cisco, , 📄 LaTeX
+- **Tools**: 🗂️ Git, 🌐 GitHub, 📦 GitLab, 🔧 Cisco, 📄 LaTeX
 
 ### Achievements
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
