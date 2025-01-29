@@ -7,11 +7,15 @@ Passionate second-year Computer Science student 👩🏻‍💻 from Skopje, Nor
 - 💌 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
 - Frontend Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 
-![ATemova's Stats](https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
-
-![ATemova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
-
 ![pv](https://pageview.vercel.app/?github_user=ATemova)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&layout=compact" /></p>
+
+//////////////////////////////////////////////  ![ATemova's Stats](https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+
+/////////////////////////////////////////////   ![ATemova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ### Projects
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Project for data mining and machine learning (DM&ML) 🧠
