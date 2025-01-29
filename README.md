@@ -5,7 +5,7 @@ Passionate second-year Computer Science student 👩🏻‍💻 from Skopje, Nor
 - 📍 Koper, Slovenia 🏖️
 - 🏘️ Skopje, North Macedonia
 - 💌 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
-- Frontend Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/).
+- Frontend Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 
 ![ATemova's Stats](https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
 
