@@ -1,6 +1,6 @@
 # Hi, I'm Anastasija 👋
 
-Passionate second-year Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Koper, Slovenia 🏖️. I am pursuing my bachelor’s degree 🎓 at the [University of Primorska](https://www.famnit.upr.si/en), where I am dedicated to acquiring a robust understanding of computer science principles and technologies. My goal is to harness this knowledge to drive innovation 💡 and solve complex problems 🔍, aiming to make a meaningful and positive impact 🌟 in the tech industry. Through my studies and hands-on experiences, I strive to develop solutions that not only address current challenges but also pave the way for future advancements 🚀.
+Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Koper, Slovenia 🏖️. I am pursuing my bachelor’s degree 🎓 at the [University of Primorska](https://www.famnit.upr.si/en), where I am dedicated to acquiring a robust understanding of computer science principles and technologies. My goal is to harness this knowledge to drive innovation 💡 and solve complex problems 🔍, aiming to make a meaningful and positive impact 🌟 in the tech industry. Through my studies and hands-on experiences, I strive to develop solutions that not only address current challenges but also pave the way for future advancements 🚀.
 
 - 📍 Koper, Slovenia 🏖️
 - 🏘️ Skopje, North Macedonia
