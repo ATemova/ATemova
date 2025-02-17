@@ -12,7 +12,7 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&layout=compact" /></p>
 
-<h3 align="left">Projects</h3>
+### Projects
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Project for data mining and machine learning (DM&ML) 🧠
 - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course 🌡️
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 📚
@@ -34,3 +34,6 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 I am deeply passionate about advancing my skills and knowledge within the ever-evolving world of Computer Science 💻. My primary objective is to successfully complete my three-year bachelor’s studies 🎓 within the planned timeframe, ensuring that I gain a solid foundation and expertise in the field 📚. I am committed to maximizing my learning experience and applying the concepts I acquire through both academic and practical projects 🔍.
 
 In addition to meeting my academic goals 🏆, I am dedicated to continuously improving my proficiency in various technologies and programming languages ⚙️. I aim to stay current with industry trends and emerging technologies 🌟, which will enable me to contribute effectively to innovative projects and problem-solving endeavors 🚀. My ultimate aspiration is to leverage my education and skills to make meaningful contributions to the tech industry 🌐 and to pursue further academic or professional opportunities that align with my passion for computer science 🎯.
+
+
+how to make sure that the word Project is at most left in the window this is read me file
