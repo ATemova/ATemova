@@ -12,7 +12,7 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&layout=compact" /></p>
 
-### Projects
+<h3 align="left">Projects</h3>
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Project for data mining and machine learning (DM&ML) 🧠
 - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course 🌡️
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 📚
