@@ -7,13 +7,13 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
 - 👩🏼‍💻 ROS Developer and Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 
-<table>
+<table style="border: none; width: 100%;">
   <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&count_private=true" />
+    <td style="border: none;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
     </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=false&layout=compact" />
+    <td style="border: none;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
@@ -22,6 +22,7 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Project for data mining and machine learning (DM&ML) 🧠  
 - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course 🔧  
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 📚
+
 
 ### Skills
 - **Languages**: 🐍 Python, ☕ Java, 💻 C++, 🌐 JavaScript, 🧩 C, 🖥️ C#, 🌎 HTML, 🎨 CSS, 🌀 OCaml, 🏗️ Assembly, 🖧 Bash
