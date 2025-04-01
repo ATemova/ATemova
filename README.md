@@ -4,8 +4,8 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 
 - 📍 Koper, Slovenia 🏖️
 - 🏘️ Skopje, North Macedonia
-- 💌 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
-- 👩🏼‍💻 ROS Developer and Frontend Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
+- 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
+- 👩🏼‍💻 ROS Developer and Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 
 ![pv](https://pageview.vercel.app/?github_user=ATemova)
 
