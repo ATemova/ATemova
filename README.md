@@ -22,6 +22,7 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Project for data mining and machine learning (DM&ML) 🧠  
 - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course 🔧  
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 📚
+- **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack, a 24-hour hackathon, as part of a 4-person team 🏆
 
 
 ### Skills
