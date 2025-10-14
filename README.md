@@ -1,8 +1,8 @@
 # Hi, I'm Anastasija 👋
 
-Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Koper, Slovenia 🏖️. I am pursuing my bachelor’s degree 🎓 at the [University of Primorska](https://www.famnit.upr.si/en), where I am dedicated to acquiring a robust understanding of computer science principles and technologies. My goal is to harness this knowledge to drive innovation 💡 and solve complex problems 🔍, aiming to make a meaningful and positive impact 🌟 in the tech industry. Through my studies and hands-on experiences, I strive to develop solutions that not only address current challenges but also pave the way for future advancements 🚀.
+Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Slovenia. I am pursuing my bachelor’s degree 🎓 where I am dedicated to acquiring a robust understanding of computer science principles and technologies. My goal is to harness this knowledge to drive innovation 💡 and solve complex problems 🔍, aiming to make a meaningful and positive impact 🌟 in the tech industry. Through my studies and hands-on experiences, I strive to develop solutions that not only address current challenges but also pave the way for future advancements 🚀.
 
-- 📍 Koper, Slovenia 🏖️
+- 📍 Slovenia
 - 🏘️ Skopje, North Macedonia
 - 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
 - 👩🏻‍💻 ROS Developer and Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
@@ -23,11 +23,11 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 📚
 - **[KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)**: Project for Management Information Technology course 🖥️
 - **[Hackathon/Competition](https://github.com/ATemova/FAMNIT-Hackathon-3.0)**: FAMNIT Hackathon 3.0 at the University of Primorksa (2024), as part of a 4-person team
-- **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack, a 24-hour hackathon, as part of a 4-person team 
-<!-- - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course 🔧 -->
+- **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack, a 24-hour hackathon, as part of a 4-person team
+- **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course 🔧
 
 ### Skills
-- **Languages**: 🐍 Python, ☕ Java, 💻 C++, 🌐 JavaScript, 🧩 C, 🖥️ C#, 🌎 HTML, 🎨 CSS, 🌀 OCaml, 🏗️ Assembly, 🖧 Bash
+- **Languages**: 🐍 Python, ☕ Java, 🌐 JavaScript, 🧩 C, 🌎 HTML, 🎨 CSS, 🌀 OCaml, 🖧 Bash
 - **Code Editors**: ✍️ Sublime Text, 🖥️ Visual Studio Code, 🧠 IntelliJ IDEA
 - **Tools**: 🗂️ Git, 🌐 GitHub, 📦 GitLab, 🔧 Cisco, 📄 LaTeX
 
