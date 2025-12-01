@@ -9,11 +9,11 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 
 <table style="border: none; width: 100%;">
   <tr>
-    <td style="border: none;">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=true&count_private=true" />
+    <td style="border: none; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=true" />
     </td>
-    <td style="border: none;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=true&layout=compact" />
+    <td style="border: none; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
