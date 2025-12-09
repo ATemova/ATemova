@@ -19,17 +19,17 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 </table>
 
 ### Projects
-- **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Project for data mining and machine learning (DM&ML) 🧠
-- **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 📚
-- **[KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)**: Project for Management Information Technology course 🖥️
+- **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Data mining and machine learning (DM&ML) project
+- **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 
+- **[KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)**: Project for Management Information Technology
 - **[Hackathon/Competition](https://github.com/ATemova/FAMNIT-Hackathon-3.0)**: FAMNIT Hackathon 3.0 at the University of Primorksa (2024), as part of a 4-person team
 - **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack, a 24-hour hackathon, as part of a 4-person team
-- **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course 🔧
+- **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course
 
 ### Skills
-- **Languages**: 🐍 Python, ☕ Java, 🌐 JavaScript, 🧩 C, 🌎 HTML, 🎨 CSS, 🌀 OCaml, 🖧 Bash
-- **Code Editors**: ✍️ Sublime Text, 🖥️ Visual Studio Code, 🧠 IntelliJ IDEA
-- **Tools**: 🗂️ Git, 🌐 GitHub, 📦 GitLab, 🔧 Cisco, 📄 LaTeX
+- **Languages**: Python, Java, JavaScript, C, OCaml, Bash, C++
+- **Code Editors**: Sublime Text, Visual Studio Code, IntelliJ IDEA
+- **Tools**: Git, GitHub, GitLab, Cisco, LaTeX
 
 ### Achievements
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
