@@ -7,22 +7,17 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
 - 👩🏻‍💻 ROS Developer and Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none; vertical-align: top;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=ATemova&show_icons=true&theme=blue-green&hide_border=true"
-        alt="GitHub stats"
-      />
-    </td>
-    <td style="border: none; vertical-align: top;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&layout=compact&theme=blue-green&hide_border=true"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ATemova&show_icons=true&theme=blue-green&hide_border=true&bg_color=00000000"
+    alt="GitHub stats"
+    style="margin-right: 16px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&layout=compact&theme=blue-green&hide_border=true&bg_color=00000000"
+    alt="Top languages"
+  />
+</div>
 
 ### Projects
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Data mining and machine learning (DM&ML) project
