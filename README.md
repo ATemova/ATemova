@@ -10,10 +10,16 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 <table style="border: none; width: 100%;">
   <tr>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ATemova&theme=blue-green&show_icons=true&hide_border=true" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=ATemova&show_icons=true&theme=blue-green&hide_border=true"
+        alt="GitHub stats"
+      />
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ATemova&theme=blue-green&show_icons=true&hide_border=true&layout=compact" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&layout=compact&theme=blue-green&hide_border=true"
+        alt="Top languages"
+      />
     </td>
   </tr>
 </table>
