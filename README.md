@@ -5,7 +5,9 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - 📍 Slovenia
 - 🏘️ Skopje, North Macedonia
 - 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
+- 🐙 LinkedIn: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/)
 - 👩🏻‍💻 ROS Developer and Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
+
 
 <div align="center">
   <img
@@ -34,10 +36,6 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 
 ### Achievements
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
-
-### Contact
-- **LinkedIn**: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/) 🔗
-- **Instagram**: [@a.temova](https://www.instagram.com/a.temova/) 📸
 
 ### Future Goals
 I am deeply passionate about advancing my skills and knowledge within the ever-evolving world of Computer Science 💻. My primary objective is to successfully complete my bachelor’s studies 🎓 within the planned timeframe, ensuring that I gain a solid foundation and expertise in the field 📚. I am committed to maximizing my learning experience and applying the concepts I acquire through both academic and practical projects 🔍.
