@@ -2,12 +2,17 @@
 
 Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Slovenia. I am pursuing my bachelor’s degree 🎓 where I am dedicated to acquiring a robust understanding of computer science principles and technologies. My goal is to harness this knowledge to drive innovation 💡 and solve complex problems 🔍, aiming to make a meaningful and positive impact 🌟 in the tech industry. Through my studies and hands-on experiences, I strive to develop solutions that not only address current challenges but also pave the way for future advancements 🚀.
 
-- 📍 Slovenia
+- 📍 Maribor, Slovenia
 - 🏘️ Skopje, North Macedonia
 - 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
 - 🐙 LinkedIn: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/)
-- 👩🏻‍💻 ROS Developer and Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
+- 👩🏻‍💻 Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 
+### 🛠️ Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c,cpp,ocaml,bash" />
+
+### 🔧 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,react,jquery,bootstrap,mongodb,mysql,docker,git,github,gitlab,latex,vscode,idea" />
 
 <div align="center">
   <img
@@ -21,7 +26,7 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
   />
 </div>
 
-### Projects
+### 💻 Projects
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Data mining and machine learning (DM&ML) project
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 
 - **[KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)**: Project for Management Information Technology
@@ -29,15 +34,10 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack, a 24-hour hackathon, as part of a 4-person team
 - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course
 
-### Skills
-- **Languages**: Python, Java, JavaScript, C, OCaml, Bash, C++
-- **Code Editors**: Sublime Text, Visual Studio Code, IntelliJ IDEA
-- **Tools**: Git, GitHub, GitLab, Cisco, LaTeX
-
-### Achievements
+### ⭐ Achievements
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
 
-### Future Goals
+### 🎯 Future Goals
 I am deeply passionate about advancing my skills and knowledge within the ever-evolving world of Computer Science 💻. My primary objective is to successfully complete my bachelor’s studies 🎓 within the planned timeframe, ensuring that I gain a solid foundation and expertise in the field 📚. I am committed to maximizing my learning experience and applying the concepts I acquire through both academic and practical projects 🔍.
 
 In addition to meeting my academic goals 🏆, I am dedicated to continuously improving my proficiency in various technologies and programming languages ⚙️. I aim to stay current with industry trends and emerging technologies 🌟, which will enable me to contribute effectively to innovative projects and problem-solving endeavors 🚀. My ultimate aspiration is to leverage my education and skills to make meaningful contributions to the tech industry 🌐 and to pursue further academic or professional opportunities that align with my passion for computer science 🎯.
