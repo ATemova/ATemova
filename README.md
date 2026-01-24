@@ -28,11 +28,11 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 </div>
 
 ### 💻 Projects
-- **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: Data mining and machine learning (DM&ML) project
+- **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: DM & ML project in python
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 
 - **[KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)**: Project for Management Information Technology
 - **[Hackathon/Competition](https://github.com/ATemova/FAMNIT-Hackathon-3.0)**: FAMNIT Hackathon 3.0 at the University of Primorksa (2024), as part of a 4-person team
-- **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack, a 24-hour hackathon, as part of a 4-person team
+- **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack (2025), a 24-hour hackathon, as part of a 4-person team
 - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course
 
 ### ⭐ Achievements
