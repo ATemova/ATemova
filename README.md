@@ -1,6 +1,6 @@
 # Hi, I'm Anastasija 👋
 
-Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Slovenia. I am pursuing my bachelor’s degree 🎓 where I am dedicated to acquiring a robust understanding of computer science principles and technologies. My goal is to harness this knowledge to drive innovation 💡 and solve complex problems 🔍, aiming to make a meaningful and positive impact 🌟 in the tech industry. Through my studies and hands-on experiences, I strive to develop solutions that not only address current challenges but also pave the way for future advancements 🚀.
+Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Slovenia 🇸🇮. I am pursuing my bachelor’s degree 🎓 with a strong focus on building a solid foundation in computer science and modern technologies 💻. My goal is to apply this knowledge to solve complex problems 🔍, drive innovation 💡, and make a meaningful impact in the tech industry 🌟 through both academic and hands-on projects 🚀.
 
 - 📍 Maribor, Slovenia
 - 🏘️ Skopje, North Macedonia
@@ -39,6 +39,4 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
 
 ### 🎯 Future Goals
-I am deeply passionate about advancing my skills and knowledge within the ever-evolving world of Computer Science 💻. My primary objective is to successfully complete my bachelor’s studies 🎓 within the planned timeframe, ensuring that I gain a solid foundation and expertise in the field 📚. I am committed to maximizing my learning experience and applying the concepts I acquire through both academic and practical projects 🔍.
-
-In addition to meeting my academic goals 🏆, I am dedicated to continuously improving my proficiency in various technologies and programming languages ⚙️. I aim to stay current with industry trends and emerging technologies 🌟, which will enable me to contribute effectively to innovative projects and problem-solving endeavors 🚀. My ultimate aspiration is to leverage my education and skills to make meaningful contributions to the tech industry 🌐 and to pursue further academic or professional opportunities that align with my passion for computer science 🎯.
+My goal is to complete my bachelor’s degree 🎓 within the planned timeframe while building a strong foundation in computer science 💻 through both academic and practical projects. I am committed to continuously improving my technical skills ⚙️, staying up to date with modern technologies 🚀, and applying my knowledge to real-world problems. In the long term, I aim to contribute meaningfully to the tech industry 🌐 and pursue further academic or professional growth 📈.
