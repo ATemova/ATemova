@@ -36,6 +36,12 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - Simulation, modeling, and visualization for research-driven projects  
 - Designing scalable and maintainable software architectures
 
+### 📚 Research Interests
+- Multi-agent systems & coordination
+- Robotics software architectures
+- Simulation & modeling
+- Human–robot interaction
+
 ### 💻 Projects
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: DM & ML project in python
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 
@@ -45,13 +51,7 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 - **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**: Project for Programming III course
 
 ### ⭐ Achievements
-- **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
-
-### 📚 Research Interests
-- Multi-agent systems & coordination
-- Robotics software architectures
-- Simulation & modeling
-- Human–robot interaction
+- **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year
 
 ### 🎯 Future Goals
 My goal is to complete my bachelor’s degree 🎓 within the planned timeframe while building a strong foundation in computer science 💻 through both academic and practical projects. I am committed to continuously improving my technical skills ⚙️, staying up to date with modern technologies 🚀, and applying my knowledge to real-world problems. In the long term, I aim to contribute meaningfully to the tech industry 🌐 and pursue further academic or professional growth 📈.
