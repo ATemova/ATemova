@@ -1,5 +1,7 @@
 # Hi, I'm Anastasija 👋
 
+🎓 Computer Science student | Full-Stack Developer | Robotics & Autonomous Systems
+
 Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Slovenia 🇸🇮. I am pursuing my bachelor’s degree 🎓 with a strong focus on building a solid foundation in computer science and modern technologies 💻. My goal is to apply this knowledge to solve complex problems 🔍, drive innovation 💡, and make a meaningful impact in the tech industry 🌟 through both academic and hands-on projects 🚀.
 
 - 📍 Maribor, Slovenia
@@ -27,6 +29,13 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
   />
 </div>
 
+### 🔭 Current Focus
+- Multi-agent robotics systems, coordination, and task dispatching  
+- Full-stack web application development (React, Node.js)  
+- Secure authentication, authorization, and deployment (Keycloak, HTTPS/TLS, Docker)  
+- Simulation, modeling, and visualization for research-driven projects  
+- Designing scalable and maintainable software architectures
+
 ### 💻 Projects
 - **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: DM & ML project in python
 - **[BookFlow](https://github.com/ATemova/sys3-project)**: Project for Systems III course 
@@ -37,6 +46,12 @@ Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia
 
 ### ⭐ Achievements
 - **🏆 Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year.
+
+### 📚 Research Interests
+- Multi-agent systems & coordination
+- Robotics software architectures
+- Simulation & modeling
+- Human–robot interaction
 
 ### 🎯 Future Goals
 My goal is to complete my bachelor’s degree 🎓 within the planned timeframe while building a strong foundation in computer science 💻 through both academic and practical projects. I am committed to continuously improving my technical skills ⚙️, staying up to date with modern technologies 🚀, and applying my knowledge to real-world problems. In the long term, I aim to contribute meaningfully to the tech industry 🌐 and pursue further academic or professional growth 📈.
