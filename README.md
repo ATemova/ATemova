@@ -1,14 +1,14 @@
 # Hi, I'm Anastasija 👋
 
-🎓 Computer Science student | Full-Stack Developer | Robotics & Autonomous Systems
+🎓 Computer Science student | Software Developer | Robotics & Autonomous Systems
 
-Passionate Computer Science student 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Slovenia 🇸🇮. I am pursuing my bachelor’s degree 🎓 with a strong focus on building a solid foundation in computer science and modern technologies 💻. My goal is to apply this knowledge to solve complex problems 🔍, drive innovation 💡, and make a meaningful impact in the tech industry 🌟 through both academic and hands-on projects 🚀.
+Computer Science undergraduate 👩🏻‍💻 from Skopje, North Macedonia 🏛️, currently based in Slovenia 🇸🇮. My studies focus on core computer science principles, software engineering, and modern development technologies 💻. I work on designing and implementing efficient, scalable solutions 🚀, with interests spanning full-stack development, robotics, and autonomous systems 🤖, and a strong emphasis on problem-solving, system design, and hands-on technical projects.
 
 - 📍 Maribor, Slovenia
 - 🏘️ Skopje, North Macedonia
 - 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
 - 🐙 LinkedIn: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/)
-- 👩🏻‍💻 Full-stack Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
+- 👩🏻‍💻 Software Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 - 🌐 My website: [Anastasija Temova](https://atemova.infinityfreeapp.com/)
 
 ### 🛠️ Languages
