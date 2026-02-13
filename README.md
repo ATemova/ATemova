@@ -64,7 +64,7 @@ Computer Science undergraduate from Skopje, North Macedonia, currently based in 
 </div>
 
 ### ⭐ Achievements
-- ** Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year
+- **Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year
 
 ### 🌱 Open To
 - Research collaborations in robotics and autonomous systems
