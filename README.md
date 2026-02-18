@@ -60,16 +60,16 @@ Hackathon project developed at the University of Primorska.
 ### ⚡ [DragonHack (2025)](https://github.com/christymanthara/Dragonborn)
 24-hour competitive hackathon project.
 
-
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ATemova&show_icons=true&theme=blue-green&hide_border=true&bg_color=00000000"
-    alt="GitHub stats"
-    style="margin-right: 16px;"
+    src="https://github-readme-stats.vercel.app/api?username=ATemova&show_icons=true&theme=blue-green&hide_border=false&count_private=true"
+    alt="GitHub Stats"
+    height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&layout=compact&theme=blue-green&hide_border=true&bg_color=00000000"
-    alt="Top languages"
+    src="https://streak-stats.demolab.com?user=ATemova&theme=blue-green&hide_border=false"
+    alt="GitHub Streak"
+    height="170"
   />
 </div>
 
