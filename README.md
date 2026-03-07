@@ -4,8 +4,7 @@
 🤖 Robotics & Autonomous Systems  
 💻 Software & Systems Engineer  
 
-Computer Science student from Skopje, North Macedonia, currently based in Slovenia. I focus on building efficient, scalable, and deterministic systems with strong foundations in distributed systems, simulation, and software architecture.
-My work combines **robotics software**, **backend engineering**, and **research-driven system design**, with emphasis on correctness, concurrency, and maintainability.
+Computer Science student from Skopje, North Macedonia, currently based in Slovenia. I focus on designing deterministic software systems where correctness, concurrency, and architectural clarity are first-class concerns. My work lies at the intersection of **robotics software**, **backend infrastructure**, and **simulation systems**, with an emphasis on building reliable systems that remain understandable and maintainable as they scale.
 
 - 📍 Maribor, Slovenia  
 - 🏠 Skopje, North Macedonia  
