@@ -44,6 +44,11 @@ My work combines **robotics software**, **backend engineering**, and **research-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="34"/>
 </p>
 
+### 🧩 3D Modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenSCAD-Computer%20Aided%20Design-orange?logo=openscad&logoColor=white" height="28"/>
+</p>
+
 # 🧠 Computer Science Foundations
 
 - Data Structures & Algorithms  
