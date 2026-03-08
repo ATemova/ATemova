@@ -24,6 +24,8 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="34"/>
 </p>
 
 ### 🔧 Frameworks & Tools
@@ -34,8 +36,12 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="34"/>
+  <img src="https://cdn.simpleicons.org/keycloak" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="34"/>
@@ -43,9 +49,25 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="34"/>
 </p>
 
+### 🤖 Robotics
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenRMF-2D9CDB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RViz-6C757D?style=for-the-badge"/>
+</p>
+
+### ⚙️ Dev
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="34"/>
+</p>
+
 ### 🧩 3D Modeling
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenSCAD-Computer%20Aided%20Design-orange?logo=openscad&logoColor=white" height="28"/>
+  <img src="https://cdn.simpleicons.org/openscad" height="34"/>
 </p>
 
 # 🧠 Computer Science Foundations
@@ -89,18 +111,20 @@ Hackathon project developed at the University of Primorska.
 ### ⚡ [DragonHack (2025)](https://github.com/christymanthara/Dragonborn)
 24-hour competitive hackathon project.
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ATemova&show_icons=true&theme=blue-green&hide_border=false&count_private=true"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=ATemova&theme=blue-green&hide_border=false"
-    alt="GitHub Streak"
-    height="170"
-  />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=ATemova&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATemova&theme=chartreuse_dark" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATemova&theme=chartreuse_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ATemova&theme=chartreuse_dark" />
+</p>
 
 # 🌱 Open To
 
