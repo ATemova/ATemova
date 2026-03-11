@@ -55,6 +55,7 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
   <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenRMF-2D9CDB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RViz-6C757D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zenoh-0A1B4D?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Dev
