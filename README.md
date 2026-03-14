@@ -94,6 +94,9 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
 ### 🤖 [Deterministic Multi-Robot Warehouse Simulation](https://github.com/ATemova/Robot-Warehouse-Simulator)
 Research-oriented multi-agent framework with collision avoidance and deadlock handling.
 
+### 🛰️ [ROS1 vs ROS2 Mapping Comparison](https://github.com/ATemova/ros1-ros2-mapping-comparison)
+System-level empirical comparison of ROS1 and ROS2 mapping pipelines on a real mobile robot under controlled and repeatable experimental conditions.
+
 ### 🔥 [Heat Distribution Simulation (Java)](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)
 Sequential, parallel, and distributed 2D heat simulation with performance benchmarking.
 
