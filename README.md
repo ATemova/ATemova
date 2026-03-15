@@ -47,6 +47,7 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="34"/>
+  <img src="https://cdn.simpleicons.org/archlinux" height="34"/>
 </p>
 
 ### 🤖 Robotics
