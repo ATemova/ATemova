@@ -1,75 +1,143 @@
-# Hi, I'm Anastasija 👋
+# Hi, I'm Anastasija 👋  
 
-🎓 Computer Science student | Software Developer | Robotics & Autonomous Systems
+🎓 Computer Science Undergraduate  
+🤖 Robotics & Autonomous Systems  
+💻 Software & Systems Engineer  
 
-Computer Science undergraduate from Skopje, North Macedonia, currently based in Slovenia. My academic focus is on core computer science principles, software engineering, and modern development technologies. I design and implement efficient, scalable solutions, with interests in full-stack development, robotics, and autonomous systems, and a strong emphasis on problem-solving, system design, and practical technical work.
+Computer Science student from Skopje, North Macedonia, currently based in Slovenia. I focus on designing deterministic software systems where correctness, concurrency, and architectural clarity are first-class concerns. My work lies at the intersection of **robotics software**, **backend infrastructure**, and **simulation systems**, with an emphasis on building reliable systems that remain understandable and maintainable as they scale.
 
-- 📍 Maribor, Slovenia
-- 🏘️ Skopje, North Macedonia
-- 📧 Reach me via email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)
-- 🐙 LinkedIn: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/)
+- 📍 Maribor, Slovenia  
+- 🏠 Skopje, North Macedonia  
+- 📧 Email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)  
+- 💼 LinkedIn: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/)  
 - 👩🏻‍💻 Software Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
 
-### 💼 Experience & Responsibilities
-- Software development in robotics-focused environments
-- Designing and maintaining backend services and APIs
-- Working with distributed systems and inter-process communication layers
-- Contributing to simulation and autonomous system workflows
-- Writing technical documentation and supporting system design decisions
+## 🔧 Technical Skills & Stack
 
-### 🛠️ Languages
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> </a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> </a> <a href="https://ocaml.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" width="40" height="40" alt="OCaml"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/> </a> </p>
+### 🤖 Robotics & Distributed Systems
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat)
+![OpenRMF](https://img.shields.io/badge/OpenRMF-2D9CDB?style=flat)
+![RViz](https://img.shields.io/badge/RViz-6C757D?style=flat)
+![Zenoh](https://img.shields.io/badge/Zenoh-0A1B4D?style=flat)
 
-### 🔧 Frameworks & Tools
-<p align="left"> <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a> <a href="https://www.npmjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/></a> <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a> <a href="https://jquery.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40"/></a> <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/></a> <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a> <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a> <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a> <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a> <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a> <a href="https://about.gitlab.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/></a> <a href="https://www.latex-project.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="40"/></a> <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></a> <a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/></a> <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a> </p>
+### 🧠 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-007ACC?style=flat)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-### 🧠 Computer Science Foundations
-- Data structures and algorithms
-- Operating systems and concurrency
-- Computer networks and distributed systems
-- Databases and data modeling
-- Software architecture and design patterns
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 🔭 Current Focus
-- Multi-agent robotics systems, coordination, and task dispatching  
-- Full-stack web application development (React, Node.js)  
-- Secure authentication, authorization, and deployment (Keycloak, HTTPS/TLS, Docker)  
-- Simulation, modeling, and visualization for research-driven projects  
-- Designing scalable and maintainable software architectures
+### 🗄️ Databases & Data
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
-### 📚 Research Interests
-- Multi-agent systems & coordination
-- Robotics software architectures
-- Simulation & modeling
-- Human–robot interaction
+### ⚙️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-### 💻 Projects
-- **[Animal Faces Recognition](https://github.com/ATemova/face-recog-cat-dog)**: DM & ML project in Python
-- **[BookFlow](https://github.com/ATemova/sys3-project)**
-- **[KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)**
-- **[Heat Simulator](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)**
-- **[Hackathon/Competition](https://github.com/ATemova/FAMNIT-Hackathon-3.0)**: FAMNIT Hackathon 3.0 at the University of Primorksa (2024)
-- **[DragonHack](https://github.com/christymanthara/Dragonborn)**: Competed in DragonHack (2025), a 24-hour hackathon
+### 🖥️ Systems & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded--C-00599C?style=flat)
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ATemova&show_icons=true&theme=blue-green&hide_border=true&bg_color=00000000"
-    alt="GitHub stats"
-    style="margin-right: 16px;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATemova&layout=compact&theme=blue-green&hide_border=true&bg_color=00000000"
-    alt="Top languages"
-  />
-</div>
+### 🧩 Simulation & Modeling
+![Ursina](https://img.shields.io/badge/Ursina-000000?style=flat)
+![OpenSCAD](https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat)
 
-### ⭐ Achievements
-- **Certificate of Completion**: 2023 - 2024 GDSC Core Member, awarded this Certificate of Completion for successfully serving as a Google Developer Student Club Core Member at the University of Primorska for the 2023 - 2024 academic year
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-### 🌱 Open To
-- Research collaborations in robotics and autonomous systems
-- Academic projects and MSc / PhD opportunities
-- Software engineering roles related to robotics, systems, or backend development
+### 🧰 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
 
-### 🎯 Future Goals
-My goal is to complete my bachelor’s degree within the planned timeframe while building a strong foundation in computer science through both academic and practical projects. I am committed to continuously improving my technical skills, staying up to date with modern technologies, and applying my knowledge to real-world problems. In the long term, I aim to contribute meaningfully to the technology sector and pursue further academic or professional growth.
+# 🧠 Computer Science Foundations
+
+- Data Structures & Algorithms  
+- Operating Systems & Concurrency  
+- Computer Networks  
+- Distributed Systems  
+- Database Systems & Data Modeling  
+- Software Architecture & Design Patterns  
+
+# 🔬 Research & Technical Interests
+
+- Multi-agent systems & coordination  
+- Robotics software architectures  
+- Deterministic system design  
+- Distributed task scheduling  
+- Simulation & modeling  
+- Human–robot interaction  
+
+# 🚀 Projects
+
+### 🤖 [Deterministic Multi-Robot Warehouse Simulation](https://github.com/ATemova/Robot-Warehouse-Simulator)
+Research-oriented multi-agent framework with collision avoidance and deadlock handling.
+
+### 🛰️ [ROS1 vs ROS2 Mapping Comparison](https://github.com/ATemova/ros1-ros2-mapping-comparison)
+System-level empirical comparison of ROS1 and ROS2 mapping pipelines on a real mobile robot under controlled and repeatable experimental conditions.
+
+### 🔥 [Heat Distribution Simulation (Java)](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)
+Sequential, parallel, and distributed 2D heat simulation with performance benchmarking.
+
+### 🐱🐶 [Animal Faces Recognition (ML & DM)](https://github.com/ATemova/face-recog-cat-dog)
+Image classification project using a Kaggle dataset and supervised learning techniques.
+
+### 📚 [BookFlow](https://github.com/ATemova/sys3-project)
+Full-stack library management system built with React, Node.js, and MySQL.
+
+### 📊 [KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)
+Collaborative project focused on structured task and data management.
+
+### 🏆 [FAMNIT Hackathon 3.0 (2024)](https://github.com/ATemova/FAMNIT-Hackathon-3.0)
+Hackathon project developed at the University of Primorska.
+
+### ⚡ [DragonHack (2025)](https://github.com/christymanthara/Dragonborn)
+24-hour competitive hackathon project.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=ATemova&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATemova&theme=chartreuse_dark" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATemova&theme=chartreuse_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ATemova&theme=chartreuse_dark" />
+</p>
+
+# 🌱 Open To
+
+- Robotics and autonomous systems research collaborations
+- Backend / systems engineering roles  
+- Research-driven software development  
+
+# 🎯 Long-Term Vision
+
+I aim to build deep expertise in systems-level engineering and robotics software, combining theoretical foundations with real-world implementation. My goal is to contribute to robust, scalable, and safety-critical systems in robotics and distributed environments.
