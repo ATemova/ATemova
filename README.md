@@ -99,6 +99,9 @@ Research-oriented multi-agent framework with collision avoidance and deadlock ha
 ### 🛰️ [ROS1 vs ROS2 Mapping Comparison](https://github.com/ATemova/ros1-ros2-mapping-comparison)
 System-level empirical comparison of ROS1 and ROS2 mapping pipelines on a real mobile robot under controlled and repeatable experimental conditions.
 
+### 🌱 [Plant Monitor](https://github.com/Plant-Monitoring/main/tree/main)
+System for monitoring and analyzing light conditions for plant health, combining STM32 sensors, a FastAPI backend, and a TensorFlow/Keras classification model.
+
 ### 🔥 [Heat Distribution Simulation (Java)](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)
 Sequential, parallel, and distributed 2D heat simulation with performance benchmarking.
 
