@@ -6,7 +6,7 @@
 
 Computer Science student from Skopje, North Macedonia, currently based in Slovenia. I focus on designing deterministic software systems where correctness, concurrency, and architectural clarity are first-class concerns. My work lies at the intersection of **robotics software**, **backend infrastructure**, and **simulation systems**, with an emphasis on building reliable systems that remain understandable and maintainable as they scale.
 
-- 📍 Maribor, Slovenia  
+- 📍 Slovenia  
 - 🏠 Skopje, North Macedonia  
 - 📧 Email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)  
 - 💼 LinkedIn: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/)  
