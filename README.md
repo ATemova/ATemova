@@ -4,10 +4,14 @@
 🤖 Robotics & Autonomous Systems  
 💻 Software & Systems Engineer  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-atemova.github.io-3cff4d?style=flat&logo=githubpages&logoColor=black)](https://atemova.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anastasija%20Temova-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasija-temova-558073212/)
+
 Computer Science student from Skopje, North Macedonia, currently based in Slovenia. I focus on designing deterministic software systems where correctness, concurrency, and architectural clarity are first-class concerns. My work lies at the intersection of **robotics software**, **backend infrastructure**, and **simulation systems**, with an emphasis on building reliable systems that remain understandable and maintainable as they scale.
 
 - 📍 Slovenia  
 - 🏠 Skopje, North Macedonia  
+- 🌐 Portfolio: [atemova.github.io](https://atemova.github.io)  
 - 📧 Email: [temanastasa@gmail.com](mailto:temanastasa@gmail.com)  
 - 💼 LinkedIn: [Anastasija Temova](https://www.linkedin.com/in/anastasija-temova-558073212/)  
 - 👩🏻‍💻 Software Developer at [Ubiquity Robotics](https://www.ubiquityrobotics.com/)
@@ -95,14 +99,48 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
 
 # 🚀 Projects
 
+## ⭐ Featured
+
+### 📡 [rosscope](https://github.com/ATemova/ros-scope) — telemetry & observability for ROS 2 robot fleets
+
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-Humble-22314E?logo=ros&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/Storage-TimescaleDB-FDB515?logo=timescale&logoColor=white)
+![Redis Streams](https://img.shields.io/badge/Streaming-Redis%20Streams-DC382D?logo=redis&logoColor=white)
+![Three.js](https://img.shields.io/badge/Frontend-Three.js%20%7C%20uPlot-049EF4?logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Infra-Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/Live-WebSocket%20Stream-FF8A3D)
+
+**Live telemetry, health, and 3D pose for ROS 2 robot fleets — runnable with one command, no robot required.**
+
+A production-style observability platform that bridges ROS 2 topics into a time-series database and serves a live dashboard with 3D pose, signal charts, per-topic health, and threshold + staleness alerts. The whole stack comes up with `docker compose up` and streams a synthetic fleet immediately — so it can be tried without ROS installed and without hardware — then runs unchanged against a real robot via the ROS 2 bridge.
+
+- **Live 3D pose** for the whole fleet with per-robot trajectory trails, fed by odometry over a WebSocket.
+- **Streaming signal charts** (battery, CPU temperature, IMU) with history backed by TimescaleDB.
+- **Topic health strip** showing the observed rate of each topic and flagging the moment one goes stale.
+- **Alerting** on thresholds (battery low/critical, CPU overheat) and on missing data, pushed live to the dashboard.
+- **Session record & replay** — bookmark a time range, then scrub through it (play/pause/seek/speed) with the whole dashboard replaying from stored data.
+- **Decoupled ingest & serving** — a Redis Stream absorbs sensor-rate bursts, a dedicated worker drains it with batched inserts, and the API only reads, so write throughput and the web tier scale independently.
+
+| Layer     | Tools |
+|-----------|-------|
+| Backend   | FastAPI, Uvicorn, asyncpg |
+| Storage   | TimescaleDB (hypertables, continuous aggregates, retention) |
+| Streaming | Redis Streams (pipeline) + Redis Pub/Sub (alerts) |
+| Robotics  | ROS 2 Humble, rclpy, standard `sensor_msgs` / `nav_msgs` |
+| Frontend  | Three.js (3D pose), µPlot (charts), vanilla ES — no build step |
+| Infra     | Docker Compose, multi-service, health-gated startup, CI |
+
+---
+
+## More Projects
+
 ### 🤖 [Deterministic Multi-Robot Warehouse Simulation](https://github.com/ATemova/Robot-Warehouse-Simulator)
 Research-oriented multi-agent framework with collision avoidance and deadlock handling.
 
 ### 🛰️ [ROS1 vs ROS2 Mapping Comparison](https://github.com/ATemova/ros1-ros2-mapping-comparison)
 System-level empirical comparison of ROS1 and ROS2 mapping pipelines on a real mobile robot under controlled and repeatable experimental conditions.
-
-### 📡 [Ros Scope](https://github.com/ATemova/ros-scope) 
-Telemetry and observability for ROS 2 robot fleets.
 
 ### 🌱 [Plant Monitor](https://github.com/Plant-Monitoring/main/tree/main)
 System for monitoring and analyzing light conditions for plant health, combining STM32 sensors, a FastAPI backend, and a TensorFlow/Keras classification model.
