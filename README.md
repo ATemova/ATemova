@@ -2,10 +2,7 @@
 
 🎓 Computer Science Undergraduate  
 🤖 Robotics & Autonomous Systems  
-💻 Software & Systems Engineer  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-atemova.github.io-3cff4d?style=flat&logo=githubpages&logoColor=black)](https://atemova.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anastasija%20Temova-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasija-temova-558073212/)
+💻 Software & Systems Engineer
 
 Computer Science student from Skopje, North Macedonia, currently based in Slovenia. I focus on designing deterministic software systems where correctness, concurrency, and architectural clarity are first-class concerns. My work lies at the intersection of **robotics software**, **backend infrastructure**, and **simulation systems**, with an emphasis on building reliable systems that remain understandable and maintainable as they scale.
 
