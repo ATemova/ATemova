@@ -37,6 +37,8 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
 ### 🗄️ Databases & Data
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
@@ -98,6 +100,9 @@ Research-oriented multi-agent framework with collision avoidance and deadlock ha
 
 ### 🛰️ [ROS1 vs ROS2 Mapping Comparison](https://github.com/ATemova/ros1-ros2-mapping-comparison)
 System-level empirical comparison of ROS1 and ROS2 mapping pipelines on a real mobile robot under controlled and repeatable experimental conditions.
+
+### 📡 [Ros Scope](https://github.com/ATemova/ros-scope) 
+Telemetry and observability for ROS 2 robot fleets.
 
 ### 🌱 [Plant Monitor](https://github.com/Plant-Monitoring/main/tree/main)
 System for monitoring and analyzing light conditions for plant health, combining STM32 sensors, a FastAPI backend, and a TensorFlow/Keras classification model.
