@@ -99,7 +99,7 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
 
 <td width="33%" valign="top">
 
-## 📡 RosScope
+## 📡 Ros Scope
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
