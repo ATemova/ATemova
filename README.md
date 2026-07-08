@@ -106,20 +106,8 @@ System-level empirical comparison of ROS1 and ROS2 mapping pipelines on a real m
 ### 🌱 [Plant Monitor](https://github.com/Plant-Monitoring/main/tree/main)
 System for monitoring and analyzing light conditions for plant health, combining STM32 sensors, a FastAPI backend, and a TensorFlow/Keras classification model.
 
-### 🔥 [Heat Distribution Simulation (Java)](https://github.com/ATemova/Programming-III-Project-Heat-Simulation)
-Sequential, parallel, and distributed 2D heat simulation with performance benchmarking.
-
 ### 🐱🐶 [Animal Faces Recognition (ML & DM)](https://github.com/ATemova/face-recog-cat-dog)
 Image classification project using a Kaggle dataset and supervised learning techniques.
-
-### 📚 [BookFlow](https://github.com/ATemova/sys3-project)
-Full-stack library management system built with React, Node.js, and MySQL.
-
-### 📊 [KeepTrack](https://github.com/zstoimchev/KeepTrack/tree/main)
-Collaborative project focused on structured task and data management.
-
-### 🏆 [FAMNIT Hackathon 3.0 (2024)](https://github.com/ATemova/FAMNIT-Hackathon-3.0)
-Hackathon project developed at the University of Primorska.
 
 ### ⚡ [DragonHack (2025)](https://github.com/christymanthara/Dragonborn)
 24-hour competitive hackathon project.
