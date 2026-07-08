@@ -92,25 +92,194 @@ Computer Science student from Skopje, North Macedonia, currently based in Sloven
 - Simulation & modeling  
 - Human–robot interaction  
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-### 📡 [Ros Scope](https://github.com/ATemova/ros-scope) 
-Telemetry & observability for ROS 2 robot fleets
+<table>
+<tr>
 
-### 🤖 [Deterministic Multi-Robot Warehouse Simulation](https://github.com/ATemova/Robot-Warehouse-Simulator)
-Research-oriented multi-agent framework with collision avoidance and deadlock handling.
+<td width="33%" valign="top">
 
-### 🛰️ [ROS1 vs ROS2 Mapping Comparison](https://github.com/ATemova/ros1-ros2-mapping-comparison)
-System-level empirical comparison of ROS1 and ROS2 mapping pipelines on a real mobile robot under controlled and repeatable experimental conditions.
+## 📡 RosScope
 
-### 🌱 [Plant Monitor](https://github.com/Plant-Monitoring/main/tree/main)
-System for monitoring and analyzing light conditions for plant health, combining STM32 sensors, a FastAPI backend, and a TensorFlow/Keras classification model.
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square)
 
-### 🐱🐶 [Animal Faces Recognition (ML & DM)](https://github.com/ATemova/face-recog-cat-dog)
-Image classification project using a Kaggle dataset and supervised learning techniques.
+Production-grade observability platform for ROS 2 fleets with live telemetry, health monitoring, alerts, and 3D visualization.
 
-### ⚡ [DragonHack (2025)](https://github.com/christymanthara/Dragonborn)
-24-hour competitive hackathon project.
+**<a href="https://github.com/ATemova/ros-scope">🔗 View Project</a>**
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 Warehouse Simulation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-blueviolet?style=flat-square)
+![Simulation](https://img.shields.io/badge/Simulation-success?style=flat-square)
+
+Research-oriented multi-agent warehouse simulator featuring deterministic coordination, collision avoidance, and deadlock resolution.
+
+**<a href="https://github.com/ATemova/Robot-Warehouse-Simulator">🔗 View Project</a>**
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🛰️ ROS1 vs ROS2
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square)
+![SLAM](https://img.shields.io/badge/SLAM-orange?style=flat-square)
+![Research](https://img.shields.io/badge/Research-brightgreen?style=flat-square)
+
+System-level benchmark comparing ROS1 and ROS2 mapping pipelines under controlled real-world conditions.
+
+**<a href="https://github.com/ATemova/ros1-ros2-mapping-comparison">🔗 View Project</a>**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 🌱 Plant Monitor
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
+
+IoT-based plant monitoring platform integrating STM32 sensors, FastAPI services, and TensorFlow classification.
+
+**<a href="https://github.com/Plant-Monitoring/main">🔗 View Project</a>**
+
+</td>
+
+<td valign="top">
+
+## 🏥 Clinical Deterioration
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![MIMIC-IV](https://img.shields.io/badge/MIMIC--IV-purple?style=flat-square)
+![Healthcare](https://img.shields.io/badge/Early--Warning-red?style=flat-square)
+
+Continuous ICU early-warning pipeline using MIMIC-IV with leakage-aware modeling and clinical failure analysis.
+
+**<a href="https://github.com/ATemova/clinical-deterioration-mimic">🔗 View Project</a>**
+
+</td>
+
+<td valign="top">
+
+## 👤 Face Mesh
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-purple?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
+![478](https://img.shields.io/badge/478-Landmarks-success?style=flat-square)
+
+Real-time facial landmark tracking with head pose, gaze estimation, drowsiness monitoring, and multi-face analytics.
+
+**<a href="https://github.com/ATemova/face-mesh">🔗 View Project</a>**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 🚨 AnomalyNet
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-blue?style=flat-square)
+![GradCAM++](https://img.shields.io/badge/GradCAM++-orange?style=flat-square)
+
+Unified CNN for explainable anomaly detection across manufacturing, medical imaging, and security domains.
+
+**<a href="https://github.com/ATemova/AnomalyNet">🔗 View Project</a>**
+
+</td>
+
+<td valign="top">
+
+## 📚 BookFlow
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+
+Full-stack library management platform built with React, Node.js, and MySQL.
+
+**<a href="https://github.com/ATemova/sys3-project">🔗 View Project</a>**
+
+</td>
+
+<td valign="top">
+
+## 🐱 Animal Faces
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![ML](https://img.shields.io/badge/Machine-Learning-success?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square)
+
+Supervised computer vision pipeline for animal species classification using a Kaggle image dataset.
+
+**<a href="https://github.com/ATemova/face-recog-cat-dog">🔗 View Project</a>**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## 🏆 FAMNIT Hackathon
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+
+Collaborative web application developed during the FAMNIT Hackathon 3.0 under a 27-hour development challenge.
+
+**<a href="https://github.com/ATemova/FAMNIT-Hackathon-3.0">🔗 View Project</a>**
+
+</td>
+
+<td valign="top">
+
+## ⚡ DragonHack
+
+![Hackathon](https://img.shields.io/badge/Hackathon-24h-orange?style=flat-square)
+![Team](https://img.shields.io/badge/Team-Collaboration-success?style=flat-square)
+![Innovation](https://img.shields.io/badge/Innovation-blueviolet?style=flat-square)
+
+Competitive hackathon project focused on rapid prototyping, teamwork, and innovative software development.
+
+**<a href="https://github.com/christymanthara/Dragonborn">🔗 View Project</a>**
+
+</td>
+
+<td valign="top">
+
+## 🔥 Heat Simulation
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![MPI](https://img.shields.io/badge/MPI-Distributed-red?style=flat-square)
+![Parallel](https://img.shields.io/badge/Parallel-Computing-blue?style=flat-square)
+
+Sequential, parallel, and distributed heat simulation with real-time visualization and performance benchmarking.
+
+**<a href="https://github.com/ATemova/Programming-III-Project-Heat-Simulation">🔗 View Project</a>**
+
+</td>
+
+</tr>
+
+</table>
 
 ## 📊 GitHub Stats
 
